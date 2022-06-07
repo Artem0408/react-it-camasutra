@@ -1,0 +1,22 @@
+.nav {
+  grid-area: n;
+  background-color: #4169E1;
+  width: 160px;
+  height: 565px;
+  padding: 40px;
+}
+.item a {
+  text-decoration: none;
+   color:#FFFFFF ;
+  } 
+
+ .item a.activelink {
+   color:#E1BA0D ;
+  }
+  .foto {
+    border-radius: 25px;
+    margin-right: 10px;
+  }
+  .str {
+    float: left;
+  }
